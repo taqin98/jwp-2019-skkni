@@ -2,11 +2,11 @@
 ## di Bpptik Kominfo Cikarang
 
 
-Author - Nurul Muttaqin
-Created : 14/03/2019
-Updated : 15/03/2019
-Version : v4
-About : Pelatihan dan Sertifikasi SKKNI 2019
+## Author - Nurul Muttaqin
+## Created : 14/03/2019
+## Updated : 15/03/2019
+## Version : v4
+## About : Pelatihan dan Sertifikasi SKKNI 2019
 
 CSS & JS
 -Bootstrap : https://getbootstrap.com/

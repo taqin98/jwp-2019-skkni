@@ -9,8 +9,8 @@
 - About : Pelatihan dan Sertifikasi SKKNI 2019
 
 CSS & JS
--Bootstrap : https://getbootstrap.com/
--Datables : https://datatables.net/ 
+- Bootstrap : https://getbootstrap.com/
+- Datables : https://datatables.net/ 
 
 Programing Leanguage
 - PHP v7.2.14 : http://www.php.net/

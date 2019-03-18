@@ -1,0 +1,6 @@
+{
+    "require": {
+        "filp/whoops": "1.*",
+        "thingengineer/mysqli-database-class": "dev-master"
+    }
+}
